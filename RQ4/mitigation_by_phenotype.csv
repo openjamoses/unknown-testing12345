@@ -1,0 +1,69 @@
+regression_phenotype_primitive,strategy,n,recovered_n,recovery_rate
+Comparison/ranking substitution,generic_verification,66,2,0.030303030303030304
+Comparison/ranking substitution,oracle_group_capability_conditioned,66,3,0.045454545454545456
+Comparison/ranking substitution,oracle_group_capability_phenotype_conditioned,66,5,0.07575757575757576
+Comparison/ranking substitution,oracle_group_conditioned,66,5,0.07575757575757576
+Comparison/ranking substitution,oracle_taxonomy_conditioned_reasoning,66,15,0.22727272727272727
+Concept/knowledge substitution,generic_verification,232,11,0.04741379310344827
+Concept/knowledge substitution,oracle_group_capability_conditioned,232,17,0.07327586206896551
+Concept/knowledge substitution,oracle_group_capability_phenotype_conditioned,232,21,0.09051724137931035
+Concept/knowledge substitution,oracle_group_conditioned,232,15,0.06465517241379311
+Concept/knowledge substitution,oracle_taxonomy_conditioned_reasoning,232,57,0.24568965517241378
+Constraint/compositional substitution,generic_verification,31,2,0.06451612903225806
+Constraint/compositional substitution,oracle_group_capability_conditioned,31,3,0.0967741935483871
+Constraint/compositional substitution,oracle_group_capability_phenotype_conditioned,31,3,0.0967741935483871
+Constraint/compositional substitution,oracle_group_conditioned,31,3,0.0967741935483871
+Constraint/compositional substitution,oracle_taxonomy_conditioned_reasoning,31,6,0.1935483870967742
+Grounding/localization displacement,generic_verification,13,1,0.07692307692307693
+Grounding/localization displacement,oracle_group_capability_conditioned,13,3,0.23076923076923078
+Grounding/localization displacement,oracle_group_capability_phenotype_conditioned,13,1,0.07692307692307693
+Grounding/localization displacement,oracle_group_conditioned,13,1,0.07692307692307693
+Grounding/localization displacement,oracle_taxonomy_conditioned_reasoning,13,4,0.3076923076923077
+Information omission,generic_verification,73,10,0.136986301369863
+Information omission,oracle_group_capability_conditioned,73,12,0.1643835616438356
+Information omission,oracle_group_capability_phenotype_conditioned,73,12,0.1643835616438356
+Information omission,oracle_group_conditioned,73,12,0.1643835616438356
+Information omission,oracle_taxonomy_conditioned_reasoning,73,14,0.1917808219178082
+Output degeneration,generic_verification,12,0,0.0
+Output degeneration,oracle_group_capability_conditioned,12,0,0.0
+Output degeneration,oracle_group_capability_phenotype_conditioned,12,0,0.0
+Output degeneration,oracle_group_conditioned,12,0,0.0
+Output degeneration,oracle_taxonomy_conditioned_reasoning,12,0,0.0
+Quantitative/value deviation,generic_verification,246,22,0.08943089430894309
+Quantitative/value deviation,oracle_group_capability_conditioned,246,28,0.11382113821138211
+Quantitative/value deviation,oracle_group_capability_phenotype_conditioned,246,25,0.1016260162601626
+Quantitative/value deviation,oracle_group_conditioned,246,27,0.10975609756097561
+Quantitative/value deviation,oracle_taxonomy_conditioned_reasoning,246,70,0.2845528455284553
+Recognition/semantic substitution,generic_verification,193,6,0.031088082901554404
+Recognition/semantic substitution,oracle_group_capability_conditioned,193,7,0.03626943005181347
+Recognition/semantic substitution,oracle_group_capability_phenotype_conditioned,193,9,0.046632124352331605
+Recognition/semantic substitution,oracle_group_conditioned,193,7,0.03626943005181347
+Recognition/semantic substitution,oracle_taxonomy_conditioned_reasoning,193,24,0.12435233160621761
+Relation/state reversal,generic_verification,99,5,0.050505050505050504
+Relation/state reversal,oracle_group_capability_conditioned,99,8,0.08080808080808081
+Relation/state reversal,oracle_group_capability_phenotype_conditioned,99,9,0.09090909090909091
+Relation/state reversal,oracle_group_conditioned,99,10,0.10101010101010101
+Relation/state reversal,oracle_taxonomy_conditioned_reasoning,99,20,0.20202020202020202
+Scientific/causal conclusion substitution,generic_verification,114,7,0.06140350877192982
+Scientific/causal conclusion substitution,oracle_group_capability_conditioned,114,5,0.043859649122807015
+Scientific/causal conclusion substitution,oracle_group_capability_phenotype_conditioned,114,8,0.07017543859649122
+Scientific/causal conclusion substitution,oracle_group_conditioned,114,9,0.07894736842105263
+Scientific/causal conclusion substitution,oracle_taxonomy_conditioned_reasoning,114,18,0.15789473684210525
+Spatial/relational substitution,generic_verification,21,1,0.047619047619047616
+Spatial/relational substitution,oracle_group_capability_conditioned,21,1,0.047619047619047616
+Spatial/relational substitution,oracle_group_capability_phenotype_conditioned,21,3,0.14285714285714285
+Spatial/relational substitution,oracle_group_conditioned,21,2,0.09523809523809523
+Spatial/relational substitution,oracle_taxonomy_conditioned_reasoning,21,6,0.2857142857142857
+Unresolved answer substitution,generic_verification,5,0,0.0
+Unresolved answer substitution,oracle_group_capability_conditioned,5,0,0.0
+Unresolved answer substitution,oracle_group_conditioned,5,0,0.0
+Unsupported addition,generic_verification,19,4,0.21052631578947367
+Unsupported addition,oracle_group_capability_conditioned,19,4,0.21052631578947367
+Unsupported addition,oracle_group_capability_phenotype_conditioned,19,4,0.21052631578947367
+Unsupported addition,oracle_group_conditioned,19,4,0.21052631578947367
+Unsupported addition,oracle_taxonomy_conditioned_reasoning,19,11,0.5789473684210527
+Visual-structure interpretation substitution,generic_verification,124,2,0.016129032258064516
+Visual-structure interpretation substitution,oracle_group_capability_conditioned,124,8,0.06451612903225806
+Visual-structure interpretation substitution,oracle_group_capability_phenotype_conditioned,124,8,0.06451612903225806
+Visual-structure interpretation substitution,oracle_group_conditioned,124,7,0.056451612903225805
+Visual-structure interpretation substitution,oracle_taxonomy_conditioned_reasoning,124,29,0.23387096774193547

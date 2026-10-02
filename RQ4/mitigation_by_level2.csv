@@ -1,0 +1,66 @@
+frozen_level2,strategy,n,recovered_n,recovery_rate
+Action & Activity Recognition,generic_verification,6,0,0.0
+Action & Activity Recognition,oracle_group_capability_conditioned,6,0,0.0
+Action & Activity Recognition,oracle_group_capability_phenotype_conditioned,6,0,0.0
+Action & Activity Recognition,oracle_group_conditioned,6,0,0.0
+Action & Activity Recognition,oracle_taxonomy_conditioned_reasoning,6,0,0.0
+Attribute & Comparative Perception,generic_verification,49,2,0.04081632653061224
+Attribute & Comparative Perception,oracle_group_capability_conditioned,49,3,0.061224489795918366
+Attribute & Comparative Perception,oracle_group_capability_phenotype_conditioned,49,3,0.061224489795918366
+Attribute & Comparative Perception,oracle_group_conditioned,49,4,0.08163265306122448
+Attribute & Comparative Perception,oracle_taxonomy_conditioned_reasoning,49,6,0.12244897959183673
+Counting & Quantification,generic_verification,71,10,0.14084507042253522
+Counting & Quantification,oracle_group_capability_conditioned,71,9,0.1267605633802817
+Counting & Quantification,oracle_group_capability_phenotype_conditioned,71,9,0.1267605633802817
+Counting & Quantification,oracle_group_conditioned,71,11,0.15492957746478872
+Counting & Quantification,oracle_taxonomy_conditioned_reasoning,71,22,0.30985915492957744
+Knowledge & Commonsense Reasoning,generic_verification,173,8,0.046242774566473986
+Knowledge & Commonsense Reasoning,oracle_group_capability_conditioned,173,14,0.08092485549132948
+Knowledge & Commonsense Reasoning,oracle_group_capability_phenotype_conditioned,173,17,0.09826589595375723
+Knowledge & Commonsense Reasoning,oracle_group_conditioned,173,12,0.06936416184971098
+Knowledge & Commonsense Reasoning,oracle_taxonomy_conditioned_reasoning,173,52,0.30057803468208094
+OCR & Structured Visual Text,generic_verification,108,12,0.1111111111111111
+OCR & Structured Visual Text,oracle_group_capability_conditioned,108,13,0.12037037037037036
+OCR & Structured Visual Text,oracle_group_capability_phenotype_conditioned,108,14,0.12962962962962962
+OCR & Structured Visual Text,oracle_group_conditioned,108,12,0.1111111111111111
+OCR & Structured Visual Text,oracle_taxonomy_conditioned_reasoning,108,17,0.1574074074074074
+Object & Entity Recognition,generic_verification,118,9,0.07627118644067797
+Object & Entity Recognition,oracle_group_capability_conditioned,118,13,0.11016949152542373
+Object & Entity Recognition,oracle_group_capability_phenotype_conditioned,118,14,0.11864406779661017
+Object & Entity Recognition,oracle_group_conditioned,118,16,0.13559322033898305
+Object & Entity Recognition,oracle_taxonomy_conditioned_reasoning,118,30,0.2542372881355932
+Quantitative & Mathematical Reasoning,generic_verification,326,19,0.05828220858895705
+Quantitative & Mathematical Reasoning,oracle_group_capability_conditioned,326,29,0.08895705521472393
+Quantitative & Mathematical Reasoning,oracle_group_capability_phenotype_conditioned,324,26,0.08024691358024691
+Quantitative & Mathematical Reasoning,oracle_group_conditioned,326,27,0.08282208588957055
+Quantitative & Mathematical Reasoning,oracle_taxonomy_conditioned_reasoning,324,85,0.2623456790123457
+Relational Visual Grounding,generic_verification,13,0,0.0
+Relational Visual Grounding,oracle_group_capability_conditioned,13,0,0.0
+Relational Visual Grounding,oracle_group_capability_phenotype_conditioned,13,0,0.0
+Relational Visual Grounding,oracle_group_conditioned,13,0,0.0
+Relational Visual Grounding,oracle_taxonomy_conditioned_reasoning,13,0,0.0
+Response Generation Failure,generic_verification,12,0,0.0
+Response Generation Failure,oracle_group_capability_conditioned,12,0,0.0
+Response Generation Failure,oracle_group_capability_phenotype_conditioned,12,0,0.0
+Response Generation Failure,oracle_group_conditioned,12,0,0.0
+Response Generation Failure,oracle_taxonomy_conditioned_reasoning,12,0,0.0
+Scientific & Causal Reasoning,generic_verification,265,9,0.033962264150943396
+Scientific & Causal Reasoning,oracle_group_capability_conditioned,265,11,0.04150943396226415
+Scientific & Causal Reasoning,oracle_group_capability_phenotype_conditioned,262,16,0.061068702290076333
+Scientific & Causal Reasoning,oracle_group_conditioned,265,14,0.052830188679245285
+Scientific & Causal Reasoning,oracle_taxonomy_conditioned_reasoning,262,39,0.14885496183206107
+Spatial & Geographic Grounding,generic_verification,46,2,0.043478260869565216
+Spatial & Geographic Grounding,oracle_group_capability_conditioned,46,2,0.043478260869565216
+Spatial & Geographic Grounding,oracle_group_capability_phenotype_conditioned,46,2,0.043478260869565216
+Spatial & Geographic Grounding,oracle_group_conditioned,46,1,0.021739130434782608
+Spatial & Geographic Grounding,oracle_taxonomy_conditioned_reasoning,46,9,0.1956521739130435
+"Spatial, Relational & Constraint Reasoning",generic_verification,50,2,0.04
+"Spatial, Relational & Constraint Reasoning",oracle_group_capability_conditioned,50,4,0.08
+"Spatial, Relational & Constraint Reasoning",oracle_group_capability_phenotype_conditioned,50,6,0.12
+"Spatial, Relational & Constraint Reasoning",oracle_group_conditioned,50,5,0.1
+"Spatial, Relational & Constraint Reasoning",oracle_taxonomy_conditioned_reasoning,50,11,0.22
+Visual Form & Pattern Recognition,generic_verification,11,0,0.0
+Visual Form & Pattern Recognition,oracle_group_capability_conditioned,11,1,0.09090909090909091
+Visual Form & Pattern Recognition,oracle_group_capability_phenotype_conditioned,11,1,0.09090909090909091
+Visual Form & Pattern Recognition,oracle_group_conditioned,11,0,0.0
+Visual Form & Pattern Recognition,oracle_taxonomy_conditioned_reasoning,11,3,0.2727272727272727

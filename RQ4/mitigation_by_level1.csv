@@ -1,0 +1,16 @@
+frozen_level1,strategy,n,recovered_n,recovery_rate
+Multimodal Reasoning & Knowledge,generic_verification,814,38,0.04668304668304668
+Multimodal Reasoning & Knowledge,oracle_group_capability_conditioned,814,58,0.07125307125307126
+Multimodal Reasoning & Knowledge,oracle_group_capability_phenotype_conditioned,809,65,0.08034610630407911
+Multimodal Reasoning & Knowledge,oracle_group_conditioned,814,58,0.07125307125307126
+Multimodal Reasoning & Knowledge,oracle_taxonomy_conditioned_reasoning,809,187,0.2311495673671199
+Perception & Visual Grounding,generic_verification,422,35,0.08293838862559241
+Perception & Visual Grounding,oracle_group_capability_conditioned,422,41,0.0971563981042654
+Perception & Visual Grounding,oracle_group_capability_phenotype_conditioned,422,43,0.1018957345971564
+Perception & Visual Grounding,oracle_group_conditioned,422,44,0.10426540284360189
+Perception & Visual Grounding,oracle_taxonomy_conditioned_reasoning,422,87,0.20616113744075829
+Response & Behavioral Stability,generic_verification,12,0,0.0
+Response & Behavioral Stability,oracle_group_capability_conditioned,12,0,0.0
+Response & Behavioral Stability,oracle_group_capability_phenotype_conditioned,12,0,0.0
+Response & Behavioral Stability,oracle_group_conditioned,12,0,0.0
+Response & Behavioral Stability,oracle_taxonomy_conditioned_reasoning,12,0,0.0
